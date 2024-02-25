@@ -1,5 +1,5 @@
-const myUsername = "path.to.ceo"; // Place usename here
-const myPassword = "uncool25000"; // Place password here
+const myUsername = ""; // Place usename here
+const myPassword = ""; // Place password here
 
 const puppeteer = require('puppeteer');
 

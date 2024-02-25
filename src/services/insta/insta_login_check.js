@@ -6,8 +6,8 @@ const delay = async (ms) => {
 };
 
 const user = {
-    username: 'path.to.ceo',
-    password: 'uncool25000',
+    username: '',
+    password: '',
 };
 
 (async () => {
